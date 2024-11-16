@@ -1,0 +1,6 @@
+polars
+pandas 
+numpy
+Scikit-Learn
+matplotlib
+H2O.ai
